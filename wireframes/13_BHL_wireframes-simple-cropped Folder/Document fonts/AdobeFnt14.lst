@@ -1,0 +1,104 @@
+%!Adobe-FontList 1.14
+%Locale:0xc09
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia-Bold
+FamilyName:Georgia
+StyleName:Bold
+FullName:Georgia Bold
+MenuName:Georgia
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\P150\Desktop\copied from G drive 2\BHLUSA2\wireframes\13_BHL_wireframes-simple-cropped Folder\Document fonts\Georgia Bold.ttf
+DataFormat:sfntData
+FileLength:148768
+FileModTime:1337907936
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia-Italic
+FamilyName:Georgia
+StyleName:Italic
+FullName:Georgia Italic
+MenuName:Georgia
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\P150\Desktop\copied from G drive 2\BHLUSA2\wireframes\13_BHL_wireframes-simple-cropped Folder\Document fonts\Georgia Italic.ttf
+DataFormat:sfntData
+FileLength:165208
+FileModTime:1337907936
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia
+FamilyName:Georgia
+StyleName:Regular
+FullName:Georgia
+MenuName:Georgia
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\P150\Desktop\copied from G drive 2\BHLUSA2\wireframes\13_BHL_wireframes-simple-cropped Folder\Document fonts\Georgia.ttf
+DataFormat:sfntData
+FileLength:159656
+FileModTime:1337907936
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\P150\Desktop\copied from G drive 2\BHLUSA2\wireframes\13_BHL_wireframes-simple-cropped Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1346118882
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\P150\Desktop\copied from G drive 2\BHLUSA2\wireframes\13_BHL_wireframes-simple-cropped Folder\Document fonts\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101732
+FileModTime:1329267228
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
